@@ -1,0 +1,539 @@
+/*body a,h1{
+	cursor: pointer;
+}*/
+
+#Pricing-sora{
+	background-color: #F63854;
+
+}
+#home{
+	background-image: linear-gradient(
+		to  top left,   #F63854 30%,white 60%);
+}
+
+section div header div div h1{
+	position: relative;
+	top: 20%;
+	font-weight: 600;
+	font-size: 45px;
+	transition: all 3s;
+}
+section div header div div h1:hover{
+	position: relative;
+	top: 10%;
+	font-weight: 600;
+	font-size: 50px;
+	color: #F63854;
+	transition: all 1s;
+}
+section div header div div p{
+	font-size: 20px;
+}
+
+.padding{
+	padding-bottom: 80px;
+	padding-top: 80px;
+}
+
+button{
+
+    outline:none;
+	padding: 3%;
+	margin-top: 10%;
+	margin-bottom: 5%;
+	
+	transition: all 3s;
+	border:none;
+	border-radius: 40px;
+	background-color: #F63854;
+	color: white; 
+
+
+	font-size: 20px;
+
+	
+
+}
+button:hover{
+
+    outline:none;
+	padding: 1%;
+	margin-top: 10%;
+	box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+	
+	border-radius: 50px;
+	transition: all 1s;
+	border:none;
+	background-color: white;
+	color: #F63854;
+	/*margin: 25px 30px 25px 60px ;*/
+	
+	font-size: 30px;
+
+}
+
+.borderlink p{
+	float: left;
+}
+
+.hereket-a{
+	float: left;
+	color: gray;
+	margin-right: 15px;
+	text-decoration: none;
+	transition: all 2s;
+
+
+}
+.hereket-a:hover{
+	float: left;
+	color: gray;
+	margin-right: 13px;
+	text-decoration: none;
+	color:  #F63854;
+	font-size: 22px;
+	transition: all 1s;
+
+
+	
+
+}
+.hereket-a:focus{
+	color:  #F63854;
+}
+
+
+
+.borderlink{
+	
+	transition: all 0.2s;
+	border-radius: 50px;
+	/*border: 0px #F63854 groove;*/
+	height: 0px;
+	width: 0px;
+	position: relative;
+	top: 30px;
+	background-color: #F63854;
+}
+
+.hereket-a:hover .borderlink {
+
+	transition: all 0.5s;
+	border-radius: 50px;
+	/*border: 1px #F63854 groove;*/
+	height: 2px;
+	width: 100%;
+	position: relative;
+	top: 30px;
+	background-color: #F63854;
+}
+
+.basliq:hover .borderlink {
+	
+	transition: all 0.5s;
+	border-radius: 50px;
+	/*border: 1px #F63854 groove;*/
+	height: 2px;
+	width: 100%;
+	position: relative;
+	top: 30px;
+	
+	background-color: #F63854;
+}
+
+
+/*ourservices*/
+
+
+/*section main*/
+
+.basliq{
+	display: inline-block;
+	height: 40px;
+	position: relative;
+	top: 5%;
+	left: 99px;
+	font-weight: 400;
+	font-size: 25px;
+	transition: all 3s;
+}
+.basliq:hover{
+	height: 40px;
+	margin: auto;
+	position: relative;
+	top: 0%;
+	left: 99px;
+	font-weight: 400;
+	font-size: 26px;
+	transition: all 1s;
+}
+
+
+.box{transition: all 1s;
+	padding-top: 1px;
+	padding-bottom: 5px;
+
+	
+	border-radius: 20px;
+	background-color: white;
+	/*height: 200px;*/
+
+}
+
+.box:hover{transition: all 1s;
+	box-shadow: 0px 4px 70px -6px rgba(0,0,0,0.75);
+	padding-bottom: 5px;
+
+	
+	border-radius: 20px;
+	background-color: white;
+	/*height: 200px;*/
+
+}
+
+.boxbol{transition: all 1s;
+	border: 1px gray solid;
+	height: 80px;
+	width: 80px;
+	margin: 10px auto ;
+	
+	border-radius: 100%;
+	background-color: white;
+
+}
+
+.box:hover .boxbol {transition: all 1s;
+	
+	height: 80px;
+	width: 80px;
+	margin: 10px auto;
+	
+	border-radius: 100%;
+	background-color: #F63854;
+
+}
+li{
+	color: gray;
+}
+}
+.bigfoo{
+	margin-bottom: 10px
+	transition: all 3s;
+	color: black;
+	font-size: 16px;
+	
+
+}
+.bigfoo:hover{
+	margin-bottom: 5px
+	transition: all 1s;
+	color: #F63854;
+	font-size: 18px;
+
+}
+
+.cleantext{
+	transition: all 3s;
+	text-decoration: none;
+	color: black
+}
+
+.boxtext{
+
+	font-weight: 600;
+	font-size: 15px;
+	transition: all 1s;
+	
+}
+.boxtext:hover{
+	color: #F63854;
+	font-weight: 600;
+	font-size: 18px;
+	transition: all 1s;
+	
+
+	
+	
+
+}
+
+section section div main div div div div p{
+	transition: all 1s;
+	margin: 20px 10px;
+
+	
+	
+
+}
+.icon{
+	size: 3px;
+	
+	color:  #F63854;
+	position: relative;
+	top: 20px;
+	left: 20px;
+	font-size: 40px;
+}
+.box:hover .icon {
+	size: 3px;
+	font-weight: 1px;
+	color:  white;
+	position: relative;
+	top: 20px;
+	left: 20px;
+	font-size: 40px;
+}
+
+.leftonly{
+	padding-left: 9px;
+
+}
+
+
+
+
+
+/*main id="Detailed Statistics of your Company*/
+
+
+
+
+.deta-text{
+	position: relative;
+	top: 20%;
+	font-weight: 300;
+	font-size: 25px;
+	transition: all 3s;
+}
+.deta-text:hover{
+	position: relative;
+	top: 15%;
+	font-weight: 300;
+	font-size: 26px;
+	color: #F63854;
+	transition: all 1s;
+}
+
+.main-p{
+	margin-top: 50px;
+	margin-bottom: 20px;
+}
+
+p{
+	color: gray;
+}
+
+
+
+
+/*Awesome Features*/
+
+
+
+
+.Awesomebox{transition: all 1s;
+	padding-top: 1px;
+
+	
+	border-radius: 20px;
+	background-color: white;
+	height: 150px;
+
+}
+
+.Awesomebox:hover{transition: all 1s;
+	box-shadow: 0px 4px 70px -6px rgba(0,0,0,0.75);
+
+	
+	border-radius: 20px;
+	background-color: white;
+	height: 150px;
+
+}
+
+.Awesomebol{
+
+	position: relative;
+	right: 0px;
+	top :10px;
+	transition: all 1s;
+	border: 1px gray solid;
+	height: 50px;
+	width: 50px;
+	/*margin: 10px 0px 10px auto;*/
+	
+	border-radius: 100%;
+	background-color: white;
+
+
+}
+
+
+
+
+
+.Awesomebox:hover .Awesomebol {
+	position: relative;
+	right: 0px;
+	top :10px;
+	transition: all 1s;
+	
+	height: 50px;
+	width: 50px;
+	/*margin: 10px 0px 10px auto;*/
+	
+	border-radius: 100%;
+	background-color: #F63854;
+
+}
+
+.Awesomebox:hover .Awesometext {
+	color: #F63854;
+ 
+
+}
+
+
+
+.icon2{
+	
+	
+	color:  #F63854;
+	position: relative;
+	top: 10px;
+	left: 10px;
+	font-size: 31px;
+}
+.Awesomebox:hover .icon2 {
+	
+	font-weight: 1px;
+	color:  white;
+	position: relative;
+	top: 10px;
+	left: 10px;
+	font-size: 31px;
+}
+
+.balaca{ 
+
+	color:  #F63854;
+	position: relative;
+	top: 10px;
+	left: 10px;
+	font-size: 28px; }
+
+.Awesomebox:hover .balaca { 
+	font-weight: 1px;
+	color:  white;
+	position: relative;
+	top: 10px;
+	left: 10px;
+	font-size: 28px; }
+
+
+
+
+	/*Meet our team*/
+
+	/*pricing*/
+
+	.yum{
+		border-radius: 100%;
+
+	}
+
+
+.day30text{
+	font-weight: 700;
+	font-size: 40px;
+
+}
+
+/*contact us*/
+
+
+
+
+.contactinput{
+	transition: all 5s;
+	font-family: cursive;
+	padding:8px;
+	display:block;
+	/*margin-left: 30px;*/
+	border:1px solid #ccc;
+	width:60%;
+}
+
+.contactinput:hover{
+	background-image: linear-gradient(
+		to  right,#a0f6ff  0%, #1fc8db 51%, #2cb5e8 75%);
+
+	width:90%;
+	transition: all 3s;
+
+
+	}
+
+.contactinput:focus{
+	
+	font-family: cursive;
+	padding:8px;
+	display:block;
+	/*margin-left: 30px;*/
+	border:1px solid #ccc;
+	width:90%;
+	background-image: linear-gradient(
+		to  right,   #ffa500  0%, #1fc8db 51%, #2cb5e8 75%);
+}
+
+.contactinput2{
+	height: 50px;
+	transition: all 5s;
+	font-family: cursive;
+	padding:8px;
+	display:block;
+	/*margin-left: 30px;*/
+	border:1px solid #ccc;
+	width:90%;
+}
+
+.contactinput2:hover{
+	background-image: linear-gradient(
+		to  right,#a0f6ff  0%, #1fc8db 51%, #2cb5e8 75%);
+
+	width:90%;
+	transition: all 3s;
+
+
+	}
+
+.contactinput2:focus{
+	height: 80px;
+	
+	font-family: cursive;
+	padding:8px;
+	display:block;
+	/*margin-left: 30px;*/
+	border:1px solid #ccc;
+	width:90%;
+	background-image: linear-gradient(
+		to  right,   #ffa500  0%, #1fc8db 51%, #2cb5e8 75%);
+}
+div ul li{
+	margin-bottom: 24px;
+}
+h2{
+	margin-left: 2px;
+	margin-bottom: 40px;
+	font-size: 20px;
+	font-weight: 600;
+}
+
+
+
+.colorstar{
+	color: #F63854;
+}
+.marginleft2{
+	margin-left: 125px;
+}
